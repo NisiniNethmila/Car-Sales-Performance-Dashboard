@@ -70,7 +70,7 @@ Advanced DAX techniques applied:
 The full Power BI dashboard is available in the PDF below:
 
 📄 **Car Sales Dashboard (PDF)**  
-👉 [View Dashboard](Car_Sales_Dashboard.pdf)
+👉 [View Dashboard](Car Sales Dashboard.pdf)
 
 
 ---
