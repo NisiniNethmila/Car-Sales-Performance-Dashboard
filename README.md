@@ -98,5 +98,4 @@ This project demonstrates strong skills in:
 ---
 
 ## Author
-**Nisini Silva**  
-Aspiring Data Analyst | Power BI | SQL | Python
+**Nisini Silva**
