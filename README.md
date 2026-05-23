@@ -81,7 +81,7 @@ The PDF contains:
 ---
 
 ## Dataset
-- Source: Kaggle Car Sales Dataset (https://www.kaggle.com/datasets/suraj520/car-sales-data)
+- Source: [Kaggle Car Sales Dataset](https://www.kaggle.com/datasets/suraj520/car-sales-data)
 - Size: ~2.5 million rows  
 - Type: Structured sales transaction data
 
