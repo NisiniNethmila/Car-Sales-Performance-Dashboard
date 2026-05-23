@@ -81,7 +81,7 @@ The full Power BI dashboard is available in the PDF below:
 ---
 
 ## 📁 Dataset
-- Source: Kaggle Car Sales Dataset  
+- Source: Kaggle Car Sales Dataset (https://www.kaggle.com/datasets/suraj520/car-sales-data)
 - Size: ~2.5 million rows  
 - Type: Structured sales transaction data
 
