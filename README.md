@@ -1,6 +1,6 @@
-# 🚗 Car Sales Performance Dashboard (Power BI)
+# Car Sales Performance Dashboard (Power BI)
 
-## 📊 Project Overview
+## Project Overview
 This project presents an interactive **Car Sales Performance Dashboard** built using **Microsoft Power BI**.  
 It analyses a large-scale dealership dataset (2.5 million rows) to uncover insights into revenue trends, salesperson performance, and vehicle-level sales patterns.
 
@@ -8,7 +8,7 @@ The dashboard enables stakeholders to make data-driven decisions by providing a 
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 - Analyse overall sales performance and revenue trends
 - Evaluate individual salesperson effectiveness
 - Identify top-performing car makes and models
@@ -17,7 +17,7 @@ The dashboard enables stakeholders to make data-driven decisions by providing a 
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Microsoft Power BI
 - DAX (Data Analysis Expressions)
 - Power Query (Data Transformation)
@@ -25,7 +25,7 @@ The dashboard enables stakeholders to make data-driven decisions by providing a 
 
 ---
 
-## 🧹 Data Preparation & Transformation
+## Data Preparation & Transformation
 - Cleaned and transformed a **2.5 million-row dataset** for analysis
 - Created date-based columns (Day, Month, Year) for time intelligence
 - Standardised and corrected data types for sales and commission fields
@@ -33,7 +33,7 @@ The dashboard enables stakeholders to make data-driven decisions by providing a 
 
 ---
 
-## 📐 Key DAX Measures & Calculations
+## Key DAX Measures & Calculations
 - **Total Sales** – Aggregated total revenue using SUMX logic  
 - **Top Sales Representative** – Identified highest-performing salesperson using ranking logic (TOPN, MAXX)  
 - **Top Car Make by Year** – Dynamic analysis using filter context and slicers  
@@ -48,7 +48,7 @@ Advanced DAX techniques applied:
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 - Interactive slicer-driven reports (time, salesperson, vehicle type)
 - KPI cards for sales, commission, and profit tracking
 - Performance comparison of sales representatives
@@ -57,7 +57,7 @@ Advanced DAX techniques applied:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - Identified top-performing sales representatives based on total revenue
 - Discovered seasonal trends in car sales performance
 - Highlighted best-selling car makes and models
@@ -66,13 +66,13 @@ Advanced DAX techniques applied:
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 The full Power BI dashboard is available in the PDF below:
 
-📄 **Car Sales Dashboard (PDF)**  
-👉 [View Dashboard](Car%20Sales%20Dashboard.pdf)
+**Car Sales Dashboard (PDF)**  
+[View Dashboard](Car%20Sales%20Dashboard.pdf)
 
-💡 The PDF contains:
+The PDF contains:
 - Sales performance overview
 - Revenue trend analysis
 - Top-performing sales representatives
@@ -80,14 +80,14 @@ The full Power BI dashboard is available in the PDF below:
 
 ---
 
-## 📁 Dataset
+## Dataset
 - Source: Kaggle Car Sales Dataset (https://www.kaggle.com/datasets/suraj520/car-sales-data)
 - Size: ~2.5 million rows  
 - Type: Structured sales transaction data
 
 ---
 
-## 🚀 Outcome
+## Outcome
 This project demonstrates strong skills in:
 - Data modelling and transformation
 - Advanced DAX calculations
@@ -97,6 +97,6 @@ This project demonstrates strong skills in:
 
 ---
 
-## 📌 Author
-**Nisini Nethmila**  
+## Author
+**Nisini Silva**  
 Aspiring Data Analyst | Power BI | SQL | Python
